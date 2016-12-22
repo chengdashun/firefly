@@ -1,0 +1,20 @@
+{
+  "name": "augneb/firefly",
+  "type": "project",
+  "require": {
+    "php": ">=7.0.0",
+    "augneb/framework": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  },
+  "config": {
+    "secure-http": true
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}
+
+

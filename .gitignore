@@ -2,4 +2,6 @@
 .DS_Store
 vendor
 public/*
+!public/.gitkeep
 storage/*
+!storage/.gitkeep
